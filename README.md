@@ -1,2 +1,4 @@
 # Hello_World
-My first repository repository repository
+My first repository.
+
+I want to learn more
